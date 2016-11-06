@@ -4,4 +4,8 @@ and more lines..
 halil yeni alan ekledi..
 hdadhak
 
+<<<<<<< HEAD
 Local Development branch !!!
+=======
+Local Story1 branch !!!
+>>>>>>> story1
