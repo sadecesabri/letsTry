@@ -6,6 +6,3 @@ hdadhak
 
 <<<<<<< HEAD
 Local Development branch !!!
-=======
-Local Story1 branch !!!
->>>>>>> story1
